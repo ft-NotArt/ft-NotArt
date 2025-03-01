@@ -39,25 +39,25 @@
     <table>
         <tr>
             <td>
-                <a href="https://github.com/ft-NotArt/2_so_long">
+                <a href="https://github.com/ft-NotArt/so_long">
                     <img src="https://github.com/ft-NotArt/ft-NotArt/blob/main/img/POYO.png" alt="POYO" />
                 </a>
             </td>
             <td>
-                <a width=100% height=200px href="https://github.com/ft-NotArt/2_so_long">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft-NotArt&repo=2_so_long&hide_border=true&border_radius=15&theme=jolly" alt="2_so_long" />
+                <a width=100% height=200px href="https://github.com/ft-NotArt/so_long">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft-NotArt&repo=so_long&hide_border=true&border_radius=15&theme=jolly" alt="so_long" />
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/ft-NotArt/4_cub3d">
+                <a href="https://github.com/ft-NotArt/cub3d">
                     <img src="https://github.com/ft-NotArt/ft-NotArt/blob/main/img/dragonlore.png" alt="AWP" />
                 </a>
             </td>
             <td>
-                <a width=100% height=200px href="https://github.com/ft-NotArt/4_cub3d">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft-NotArt&repo=4_cub3d&hide_border=true&border_radius=15&theme=jolly" alt="4_cub3d" />
+                <a width=100% height=200px href="https://github.com/ft-NotArt/cub3d">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft-NotArt&repo=cub3d&hide_border=true&border_radius=15&theme=jolly" alt="cub3d" />
                 </a>
             </td>
         </tr>
